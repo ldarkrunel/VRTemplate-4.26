@@ -23,6 +23,7 @@ void UNPCController::BeginPlay()
 {
 	Super::BeginPlay();
 
+
 	// ...
 	VRPlayer = Cast<AVRCharacter>(UGameplayStatics::GetPlayerCharacter(GetWorld(), 0));
 }

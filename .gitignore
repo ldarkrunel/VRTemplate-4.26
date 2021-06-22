@@ -11,3 +11,5 @@ Intermediate
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/Maps/StartupMap1.umap
+Content/Maps/StartupMap1_BuiltData.uasset
